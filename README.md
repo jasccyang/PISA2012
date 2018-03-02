@@ -1,7 +1,7 @@
 # Student Performance Based on Location
 
 ## Visualizations
-Tableau Dashboard: [PISA2012-Analysis]: https://public.tableau.com/profile/jason5819#!/vizhome/udacity2012PISA-Performance3/STUDENTPERFORMANCEBASEDONLOCATION
+Tableau Dashboard: [PISA2012-Analysis](https://public.tableau.com/profile/jason5819#!/vizhome/udacity2012PISA-Performance3/STUDENTPERFORMANCEBASEDONLOCATION)
 
 ## Summary
 This Tableau display examines student performance based on location. Two highlighters are available on the top right to visualize the data in terms of country OECD membership and top performing countries with student composite scores of greater than 1500. A scatter plot and bar plot were included to provide insights on student’s number of possessions, study time, and gender performance.
